@@ -1,2 +1,3 @@
-# Leetcode_Daily_Challenge_March2025
- This file is part of the March 2025 Daily LeetCode Challenge series. It contains the problem statement, examples, and a Python solution for the challenge.
+# March 2025 Daily LeetCode Challenge
+
+This repository contains my solutions to the daily LeetCode challenges completed during March 2025. Each file includes the problem statement, examples, and a Python solution.
